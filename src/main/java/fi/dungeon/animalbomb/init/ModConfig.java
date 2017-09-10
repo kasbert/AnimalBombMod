@@ -23,10 +23,8 @@ public class ModConfig {
 
 		@SubscribeEvent
 		public static void onConfigChanged(ConfigChangedEvent.OnConfigChangedEvent event) {
-			System.out.println("HELLO1 " + numberOfAnimals);
 			if (event.getModID().equals(AnimalBomb.MODID)) {
 				ConfigManager.sync(AnimalBomb.MODID, Config.Type.INSTANCE);
-				System.out.println("HELLO " + numberOfAnimals);
 			}
 		}
 	}
