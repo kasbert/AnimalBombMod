@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"AAA",
+		"ATA",
+		"AAA"
+	],
+	"key": {
+		"T": {
+			"item": "minecraft:tnt"
+		},
+		"A": {
+			"item": "minecraft:beef"
+		}
+	},
+	"result": {
+		"item": "animalbomb:cowbomb"
+	}
+}

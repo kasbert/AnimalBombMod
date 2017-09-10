@@ -1,0 +1,9 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"particle": "animalbomb:pigbomb_side",
+		"top": "animalbomb:animalbomb_top",
+		"bottom": "animalbomb:animalbomb_bottom",
+		"side": "animalbomb:pigbomb_side"
+	}
+}

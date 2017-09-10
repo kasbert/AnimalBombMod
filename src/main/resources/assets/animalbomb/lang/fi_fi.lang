@@ -1,0 +1,9 @@
+item.chickenBomb.name=Kanapommi
+item.cowBomb.name=Lehmäpommi
+item.pigBomb.name=Sikapommi
+item.sheepBomb.name=Lammaspommi
+
+tile.chickenBomb.name=Kanapommi
+tile.cowBomb.name=Lehmäpommi
+tile.pigBomb.name=Sikapommi
+tile.sheepBomb.name=Lammaspommi

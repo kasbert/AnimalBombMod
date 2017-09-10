@@ -1,0 +1,16 @@
+[
+{
+  "modid": "animalbomb",
+  "name": "AnimalBomb Mod",
+  "description": "Bombs containing animals.",
+  "version": "0.1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/kasbert/AnimalBombMod",
+  "updateUrl": "",
+  "authorList": ["Kasbert"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
